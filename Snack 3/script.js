@@ -10,3 +10,4 @@ function reverseString(string){
 
 // dichiarare variabile stringa invertita dalla funzione
 var reversedString = reverseString(string);
+alert("La paroala capovolta è: " + reversedString);
